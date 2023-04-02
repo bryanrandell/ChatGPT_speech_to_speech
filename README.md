@@ -20,5 +20,5 @@ OPENAI_API_KEY=YOUR-SECRET-KEY
 ```
 
 ## Usage
-**Careful** the speech to text and text to speech conversion can be **charged** by the API providers.
+**Be careful**, the speech to text and text to speech conversion can be **charged** by the API providers.
 Read the documentation of the API providers for more information.
