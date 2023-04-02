@@ -4,7 +4,7 @@ Converting speech to text using OpenAI Whisper API and then sending the text to 
 The response from the ChatGPT API is then converted to speech using Google Text to Speech API.
 
 ## Requirements
-- OpenAI API Key with Whisper Access and ChatGPT Access
+- OpenAI API Key with Whisper Access and ChatGPT Access (https://openai.com/waitlist/gpt-4-api)
 - Google Text to Speech API Key
 
 ## Installation
@@ -20,5 +20,5 @@ OPENAI_API_KEY=YOUR-SECRET-KEY
 ```
 
 ## Usage
-**Careful** the speech to text and text to speech conversion can be **charged** by the API providers.
+**Be careful**, the speech to text and text to speech conversion can be **charged** by the API providers.
 Read the documentation of the API providers for more information.
